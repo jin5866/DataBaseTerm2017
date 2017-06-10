@@ -1,0 +1,15 @@
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\DBSever.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\DBSever.exe
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\DBSever.pdb
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Dapper.dll
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Dapper.Rainbow.MySql.dll
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Drapper.dll
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Drapper.Validation.dll
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\MySql.Data.dll
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Dapper.xml
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Dapper.Rainbow.MySql.xml
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\obj\Debug\DBSever.exe
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\DBSever\obj\Debug\DBSever.pdb

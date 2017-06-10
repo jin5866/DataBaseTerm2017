@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\RawDataClient\bin\Debug\RawDataClient.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\RawDataClient\bin\Debug\RawDataClient.exe
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\RawDataClient\bin\Debug\RawDataClient.pdb
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\RawDataClient\obj\Debug\RawDataClient.exe
+C:\Users\user\documents\visual studio 2017\Projects\DBSever\RawDataClient\obj\Debug\RawDataClient.pdb

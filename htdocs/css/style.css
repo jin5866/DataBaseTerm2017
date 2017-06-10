@@ -1,0 +1,51 @@
+html , body{ height:100.1%;text-align:center }
+div { padding:5px; }
+
+.logo{
+    height:50px;width:200px;border:0px;
+}
+
+.seaarch{
+    text-align: center;
+}
+.menu{
+     text-align: center;
+     padding:5px;
+     height:30px;
+     width:50px;
+}
+.list{
+    border:1px solid violet;
+    padding:5px;
+    width: 100.1%;
+    margin-top: 20px; 
+}
+.list_table{
+    border:1px solid violet;
+}
+.card_list{
+    margin-top: 20px; 
+    
+}
+.data_card{
+    border-radius: 20px;
+    border: 1px solid blueviolet;
+    margin: 5px;
+    width: 200px;
+    height: 300px;
+    display: inline-block;
+}
+.card_img {
+    max-width: 170px;
+    max-height: auto;
+}
+.cracker_img img{
+    width: 200px;
+    height: 200px;
+}
+
+.pic_in_card{
+    max-height: 70%;
+    max-width: auto; 
+}
+
